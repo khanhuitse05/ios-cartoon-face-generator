@@ -4,6 +4,7 @@
 
 The **CartoonGan** model can be found in [tfhub](https://tfhub.dev/sayakpaul/lite-model/cartoongan/dr/1) and was developed by [Sayak Paul](https://tfhub.dev/sayakpaul). In this repo we build an iOS application to perform the cartoonization with an iPhone.
 
+https://www.dropbox.com/s/7x3obx9egks13qi/video-demo-image.MP4?dl=0
 
 ## Objectives
 ### Dall-E Open AI
